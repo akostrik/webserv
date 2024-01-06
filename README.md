@@ -21,5 +21,10 @@
 
 # NGINX
 * a web server
+* HTTP-сервер
+* SMTP/IMAP/POP3-прокси сервер
 * can also be used as a reverse proxy, load balancer, mail proxy, HTTP cache
+* простой, быстрый, надёжный, не перегруженный функциями
+* целесообразен для статических веб-сайтов
+* целесообразен обратный прокси-сервер перед динамическими сайтами
 
