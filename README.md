@@ -1,3 +1,7 @@
+# To do
+* read the RFC
+* do some tests with telnet and NGINX before 
+
 # Web server 
 * its prinmary funciton: to store, process, deliver web pages to clients
 * its secondary function: receiving content from clients (submitting web forms, including the uploading of files)
@@ -14,3 +18,8 @@
 * a user agent (web browser, web crawler) initiates communication by requesting a specific resource using HTTP 
 * the server responds with the content or an error message
 * the resource is typically a real file on the server’s secondary storage (but not necessarily, depends on how the webserver is implemented)
+
+# NGINX
+* a web server
+* can also be used as a reverse proxy, load balancer, mail proxy, HTTP cache
+
